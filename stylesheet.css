@@ -1,15 +1,23 @@
 body {
     background-color: #0D1E2E;
 }
+
+h1, h2, h3, p, ul {
+    text-align: center;
+}
+
 h1 {
-    color: #DB3A67;
+    color: #ec4e7b;
 }
 h2 {
     color: #A6C265;
 }
 h3 {
-    color: #C2957B
+    color: #ea855d
+}
+li {
+    color: #c1847e
 }
 p {
-    color: #8F615D;
+    color: #c1847e;
 }

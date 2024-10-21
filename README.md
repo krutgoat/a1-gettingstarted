@@ -1,7 +1,7 @@
 Kruti Shah
 https://a1-krutgoat.glitch.me/
 
-This project shows ...
+This project is a basic HTML website with information about me.
 
 ## Technical Achievements
 - **Used other *semantic* HTML tags**: Incorporated <details> and <summary> elements, <ul> and <li> for unordered bulleted lists
